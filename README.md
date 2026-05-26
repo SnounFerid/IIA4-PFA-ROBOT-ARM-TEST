@@ -1,4 +1,4 @@
-# VoiceArm — Natural Language Control of a 6-DOF Robotic Arm Using Local LLM Planning, Computer Vision, and Analytical Inverse Kinematics
+# VoiceArm Natural Language Control of a 6-DOF Robotic Arm Using Local LLM Planning, Computer Vision, and Analytical Inverse Kinematics
 
 > A fully offline, end-to-end embedded and AI pipeline that accepts spoken natural-language commands, understands a live scene through computer vision, plans manipulation actions using a locally-running large language model, and executes those actions on a 6-degree-of-freedom servo arm — with zero cloud dependency.
 
