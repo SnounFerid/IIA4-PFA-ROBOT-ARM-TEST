@@ -1,4 +1,4 @@
-# VoiceArm — LLM-Driven Robotic Arm with Computer Vision
+# VoiceArm LLM-Driven Robotic Arm with Computer Vision
 
 **VoiceArm** is an end-to-end pipeline that accepts spoken or typed natural-language commands, interprets them using a locally-running large language model, detects physical objects on a workspace surface using a top-mounted camera, and executes pick-and-place operations on a 6-DOF servo arm — all without cloud services or an internet connection.
 
